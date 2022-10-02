@@ -365,7 +365,28 @@ https://www.linkedin.com/jobs/view/2996404172/<br>
 
 </details>
 
-
+<details>
+ <summary> GOLDMAN SACHS|STUDENT PROGRAMS-2023 NEW ANALYST INTERNSHIP</summary>
+ <br>
+ <h1>About</h1>
+ <br>
+ Our New Analyst Program is a full-time program for final year undergraduate and graduate students. As a new analyst, you will learn about our businesses, develop important relationships, and build career-enhancing skills.
+As a participant, you will:
+Learn about the firm and how we do business
+Gain the skills and knowledge necessary to support our businesses
+Have unlimited access to the training and guidance to help you prepare for the next level
+Build your professional network and interact with colleagues across divisions and regions 
+Date: Summer 2022
+Location: Bengaluru
+Eligibility: The New Analyst Program is open to final year undergraduate and graduate level students from any field of study, and is ideally suited to those with little or no work experience.
+ <br>
+ <br>Applications are now open.<br>
+ Official Website- <br>
+https://www.goldmansachs.com/careers/students/programs/india/new-analyst-program.html<br>
+<br>
+ </details>
+ 
+ 
 <details>
  <summary>
    Google Step Internship</summary>
