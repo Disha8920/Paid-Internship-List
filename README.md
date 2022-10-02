@@ -371,7 +371,7 @@ https://www.linkedin.com/jobs/view/2996404172/<br>
  <h1>About</h1>
  <br>
  Our New Analyst Program is a full-time program for final year undergraduate and graduate students. As a new analyst, you will learn about our businesses, develop important relationships, and build career-enhancing skills.
-\* As a participant, you will:
+\- As a participant, you will:
 \* Learn about the firm and how we do business
 \* Gain the skills and knowledge necessary to support our businesses
 \* Have unlimited access to the training and guidance to help you prepare for the next level
